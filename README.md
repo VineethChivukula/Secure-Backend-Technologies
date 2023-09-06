@@ -5,8 +5,6 @@ References:
 
 Awanish Ranjan - Building Websites with Django_ Build and deploy professional websites with Python programming and the Django framework (English Edition)-BPB Publications
 
-Robin Nixon - Learning PHP MySQL JavaScript and CSS-O'Reilly (2012)
-
 ChatGPT, May 24 Version
 
 Contents:
